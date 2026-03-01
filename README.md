@@ -4,9 +4,9 @@ This tool helps visualize how a red black is constructed.
 
 The idea to build that small project came from [this other repo](https://github.com/Kenships/RedBlackTreeVisual)
 
-This project is leightweight, the only library used is raylib. 
+This project is lightweight, the only library required is raylib. 
 
-I have also compiled the code to webassembly, the visualizer can be tried on [my website][https://bartholomehubert.com/rbtreeviz/index.html]
+I have also compiled the code to webassembly, the visualizer can be tried on [my website](https://bartholomehubert.com/rbtreeviz/index.html)
 
 ## Build
 
